@@ -6,7 +6,7 @@ def write_xml(data):
         .format(data[0])
     xml += '    <second_name = "Имя">{}</second_name>\n'\
         .format(data[1])
-    xml += '    <phone = "Номер телефона">{}</phone>\n'\
+    xml += '    <phone = "Телефон">{}</phone>\n'\
         .format(data[2])
     xml += '    <comment = "Комментарий">{}</comment>\n'\
         .format(data[3])

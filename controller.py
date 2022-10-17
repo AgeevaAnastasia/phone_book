@@ -21,12 +21,13 @@ def get_record():
 def button_click():
     record = get_record()
 
-
-    path = 'Phonebook.csv'
+    path = 'phone_book.csv'
     valid = exists(path)
     if not valid:
         create_csv()
-
-    write_csv(record)
+        write_csv(record)
+    else:
+        write_csv(record)
+        
     write_xml(record)
     write_html(record)

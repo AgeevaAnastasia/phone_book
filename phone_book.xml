@@ -1,18 +1,24 @@
 <xml>
     <first_name = "Фамилия">Иванов</first_name>
     <second_name = "Имя">Иван</second_name>
-    <phone = "Номер телефона">123</phone>
+    <phone = "Телефон">111</phone>
     <comment = "Комментарий">первая запись</comment>
 </xml>
 <xml>
     <first_name = "Фамилия">Петрова</first_name>
     <second_name = "Имя">Ольга</second_name>
-    <phone = "Номер телефона">222</phone>
+    <phone = "Телефон">222</phone>
     <comment = "Комментарий">вторая запись</comment>
 </xml>
 <xml>
-    <first_name = "Фамилия">Сидоров</first_name>
-    <second_name = "Имя">Кирилл</second_name>
-    <phone = "Номер телефона">333</phone>
-    <comment = "Комментарий">третья запись</comment>
+    <first_name = "Фамилия">Денисов</first_name>
+    <second_name = "Имя">Денис</second_name>
+    <phone = "Телефон">333</phone>
+    <comment = "Комментарий">денискины рассказы</comment>
+</xml>
+<xml>
+    <first_name = "Фамилия">Smith</first_name>
+    <second_name = "Имя">John</second_name>
+    <phone = "Телефон">2342</phone>
+    <comment = "Комментарий">american citizen</comment>
 </xml>
