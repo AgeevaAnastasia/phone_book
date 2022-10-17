@@ -1,0 +1,18 @@
+<xml>
+    <first_name = "Фамилия">Иванов</first_name>
+    <second_name = "Имя">Иван</second_name>
+    <phone = "Номер телефона">123</phone>
+    <comment = "Комментарий">первая запись</comment>
+</xml>
+<xml>
+    <first_name = "Фамилия">Петрова</first_name>
+    <second_name = "Имя">Ольга</second_name>
+    <phone = "Номер телефона">222</phone>
+    <comment = "Комментарий">вторая запись</comment>
+</xml>
+<xml>
+    <first_name = "Фамилия">Сидоров</first_name>
+    <second_name = "Имя">Кирилл</second_name>
+    <phone = "Номер телефона">333</phone>
+    <comment = "Комментарий">третья запись</comment>
+</xml>
