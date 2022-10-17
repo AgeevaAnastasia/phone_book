@@ -1,7 +1,7 @@
 
 def write_html(data):
     style = 'style="font-size:30px;"'
-    html = '<html>\n  <head></head>\n  <body>\n'
+    html = '<html>\n  <head><meta charset="UTF-8"></head>\n  <body>\n'
     html += '    <p {}>Фамилия: {}</p>\n'\
         .format(style, data[0])
     html += '    <p {}>Имя: {}</p>\n'\

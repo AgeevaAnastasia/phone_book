@@ -22,3 +22,9 @@
     <phone = "Телефон">2342</phone>
     <comment = "Комментарий">american citizen</comment>
 </xml>
+<xml>
+    <first_name = "Фамилия">Груздев</first_name>
+    <second_name = "Имя">Александр</second_name>
+    <phone = "Телефон">3990</phone>
+    <comment = "Комментарий">Назвался груздем - полезай в кузов</comment>
+</xml>
